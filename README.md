@@ -1,4 +1,4 @@
 # Tutorial
 This is my first Git Repository.
 <br>
-Author - SJaiswal
+Author - SJaiswal (IIT Tirupati)
